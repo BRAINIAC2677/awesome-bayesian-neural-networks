@@ -1,6 +1,8 @@
 # Awesome Bayesian Neural Networks
 
 ### Papers
+- #### 2015
+    - [Weight Uncertainty in Neural Networks](/assets/blundell15.pdf)
 
 
 ### Youtube Videos
